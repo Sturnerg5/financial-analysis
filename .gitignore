@@ -1,0 +1,17 @@
+# Ignore CSV files (financial data)
+*.csv
+
+# Python-related ignores
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# macOS specific
+.DS_Store
+
+# Sensitive files
+*.env
